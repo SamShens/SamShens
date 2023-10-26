@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
+  <h3 align="center">⌨️ Readme Homepage</h3>
 </p>
 
 <p align="center">
