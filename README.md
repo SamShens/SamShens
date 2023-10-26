@@ -8,15 +8,16 @@ You can click the Preview link to take a look at your changes.
   <h3 align="center">⌨️ Readme Typing SVG</h3>
 </p>
 
-<p align="left">
+<p align="login-left">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F2F7FF&random=false&width=435&lines=Be+brave+to+learn;Face+to+question;Work+something+out" alt="Typing SVG" />
 </p>
-
-<p align="center">
 - 👋 Hi, I’m @SamShens
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+<p align="center">
+
 
 </p>
